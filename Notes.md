@@ -288,6 +288,12 @@ Proof by contradiction is a tool used often in computer science. If our knowledg
 
 
 
+# 2-Uncertainty
+
+[This](https://cs50.harvard.edu/ai/2020/notes/3/) is the notes for uncertainty, it’s really nice and comprehensive.
+
+
+
 
 
 
